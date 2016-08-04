@@ -1,0 +1,23 @@
+body h1 {
+  font-family: Arial;
+  text-align: center;
+  font-size: 5em;
+}
+
+body {
+  text-align: center;
+}
+
+.icons {
+  display: inline-block;
+  text-align: center;
+}
+
+.bandcamp {
+  height: 64px;
+  width: 64px;
+}
+
+iframe {
+  padding: none;
+}
