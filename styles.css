@@ -1,16 +1,29 @@
-body h1 {
-  font-family: Arial;
+.ele {
   text-align: center;
-  font-size: 5em;
+  font-size: 4em;
+  padding-top: 10%;
+  color: #FF5F54;
+  text-decoration: underline;
 }
 
 body {
+  font-family: Futura Bk BT;
   text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #FBFF12;
+
 }
 
-.icons {
+a {
+  color: #FBFF12;
+  text-decoration: none;
+}
+
+.links {
   display: inline-block;
   text-align: center;
+  font-size: 2em;
 }
 
 .bandcamp {
